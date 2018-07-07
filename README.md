@@ -14,7 +14,7 @@ The following are the files and where they should go:
   - Put `chicken_monitor.py` on the device
   - Start screen - `screen`
   - Run `$ python3 chicken_monitor.py`
-  - Exit screen - Ctrl-D Ctrl-A
+  - Exit screen - Ctrl-A Ctrl-D
   - To resume the screen session `screen -r`
 2. On the RPi3
   - In the root of user pi's home folder `$ mkdir chickens chickens/images`
