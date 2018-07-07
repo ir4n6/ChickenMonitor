@@ -1,0 +1,8 @@
+.DS_Store
+ImageAnalysis/images
+ImageAnalysis/images/saved_photos
+ImageAnalysis/images/.DS_Store
+ImageAnalysis/.DS_Store
+ImageAnalysis/sample_images/.DS_Store
+ChickenCamera/config/defaults.py
+ImageAnalysis/imagenet
