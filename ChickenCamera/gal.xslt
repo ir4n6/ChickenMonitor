@@ -27,6 +27,8 @@
   </head>
   <body>
     <xsl:for-each select="list/file">
+        <xsl:variable name="pic" select="."/>
+        <span>File: <xsl:value-of select="$pic"/></span>
         <img src="{.}" alt="{.}"/>
     </xsl:for-each>
   </body>
