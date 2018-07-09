@@ -1,8 +1,10 @@
-.DS_Store
-ImageAnalysis/images
-ImageAnalysis/images/saved_photos
-ImageAnalysis/images/.DS_Store
-ImageAnalysis/.DS_Store
-ImageAnalysis/sample_images/.DS_Store
+*/.DS_Store
+ImageAnalysis/saved_photos
 ChickenCamera/config/defaults.py
+**/*.jpg
+ChickenCamera/LeNet.py
 ImageAnalysis/imagenet
+*/__pycache__
+ChickenCamera/test_model
+ChickenCamera/train_plot.png
+ChickenCamera/*.cnn
